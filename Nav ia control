@@ -1,4 +1,4 @@
--echo "# javiergion-dotcom.github.io" >> README.md 
+--echo "# javiergion-dotcom.github.io" >> README.md 
 git init 
 git add README.md 
 git commit -m "primer commit" 
